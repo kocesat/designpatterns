@@ -1,4 +1,4 @@
-package com.kocesat.creational.factory;
+package com.kocesat.creational.factory.pluralsight.enums;
 
 import java.util.stream.Stream;
 

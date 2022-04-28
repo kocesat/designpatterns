@@ -1,4 +1,6 @@
-package com.kocesat.creational.factory;
+package com.kocesat.creational.factory.pluralsight.website;
+
+import com.kocesat.creational.factory.pluralsight.page.Page;
 
 import java.util.ArrayList;
 import java.util.List;

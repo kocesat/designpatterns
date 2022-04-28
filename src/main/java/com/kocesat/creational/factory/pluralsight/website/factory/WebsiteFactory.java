@@ -1,4 +1,9 @@
-package com.kocesat.creational.factory;
+package com.kocesat.creational.factory.pluralsight.website.factory;
+
+import com.kocesat.creational.factory.pluralsight.enums.WebsiteType;
+import com.kocesat.creational.factory.pluralsight.website.Website;
+import com.kocesat.creational.factory.pluralsight.website.concrete.Blog;
+import com.kocesat.creational.factory.pluralsight.website.concrete.Shop;
 
 public class WebsiteFactory {
     public static Website newInstance(String siteType) {
