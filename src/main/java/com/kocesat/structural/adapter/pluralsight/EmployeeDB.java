@@ -1,4 +1,4 @@
-package com.kocesat.structural.adapter;
+package com.kocesat.structural.adapter.pluralsight;
 
 public class EmployeeDB implements Employee {
     private String id;

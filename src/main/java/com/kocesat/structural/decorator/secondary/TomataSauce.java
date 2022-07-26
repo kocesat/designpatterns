@@ -1,4 +1,4 @@
-package com.kocesat.structural.decorator;
+package com.kocesat.structural.decorator.secondary;
 
 public class TomataSauce extends ToppingDecorator{
     public TomataSauce(Pizza tempPizza) {

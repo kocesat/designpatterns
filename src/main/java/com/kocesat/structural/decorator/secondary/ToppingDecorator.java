@@ -1,4 +1,4 @@
-package com.kocesat.structural.decorator;
+package com.kocesat.structural.decorator.secondary;
 
 public abstract class ToppingDecorator implements Pizza{
     protected Pizza tempPizza;

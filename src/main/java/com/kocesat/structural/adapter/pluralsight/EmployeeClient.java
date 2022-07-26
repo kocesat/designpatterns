@@ -1,4 +1,4 @@
-package com.kocesat.structural.adapter;
+package com.kocesat.structural.adapter.pluralsight;
 
 import java.util.ArrayList;
 import java.util.List;
