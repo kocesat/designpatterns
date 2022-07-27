@@ -1,4 +1,4 @@
-package com.kocesat.structural.decorator.secondary;
+package com.kocesat.structural.decorator.derekbanas;
 
 public class PizzaMaker {
     public static void main(String[] args) {

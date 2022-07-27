@@ -1,4 +1,4 @@
-package com.kocesat.structural.decorator.secondary;
+package com.kocesat.structural.decorator.derekbanas;
 
 public class PlainPizza implements Pizza{
     @Override
