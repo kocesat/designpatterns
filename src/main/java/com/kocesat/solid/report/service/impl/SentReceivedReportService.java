@@ -7,7 +7,7 @@ import com.kocesat.solid.report.service.ReportGeneratorService;
 public class SentReceivedReportService implements ReportGeneratorService {
     @Override
     public void generate(ReportGeneratorRequest request) {
-        System.out.println("Generating SentReceived Report for " + request.getDate());
+        System.out.println("Generated SentReceived Report for " + request.getDate());
     }
 
     @Override

@@ -15,7 +15,7 @@ public class SettlementReportService implements ReportGeneratorService {
         }
         StringBuffer buffer = new StringBuffer();
         input.forEach(i -> buffer.append(i));
-        System.out.println("Settlement report keyword created:" + buffer.toString());
+        System.out.println("Generated Settlement report keyword created:" + buffer.toString());
     }
 
     @Override

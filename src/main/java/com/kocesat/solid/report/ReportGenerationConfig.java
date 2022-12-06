@@ -13,8 +13,9 @@ public class ReportGenerationConfig {
             case "settlement":
                 return new SettlementReportService();
             case "psvolume":
-            default:
                 return new PSVolumeReportService();
+            default:
+                throw new IllegalArgumentException("Report is not registered to config");
         }
     }
 }

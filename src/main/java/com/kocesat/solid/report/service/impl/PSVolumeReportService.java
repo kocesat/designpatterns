@@ -7,7 +7,7 @@ import com.kocesat.solid.report.service.ReportGeneratorService;
 public class PSVolumeReportService implements ReportGeneratorService {
     @Override
     public void generate(ReportGeneratorRequest request) {
-        System.out.println("Generating PS Volume Report for " + request.getDate());
+        System.out.println("Generated PS Volume Report for " + request.getDate());
     }
 
     @Override

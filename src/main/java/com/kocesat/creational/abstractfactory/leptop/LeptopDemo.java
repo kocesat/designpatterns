@@ -5,6 +5,5 @@ public class LeptopDemo {
         var leptopBuilder = new LeptopBuilderFactory(Brand.APPLE, 250);
         Processor appleProcessor = leptopBuilder.getLeptopFactory().createProcessor();
         Storage appleStorage = leptopBuilder.getLeptopFactory().createStorage();
-
     }
 }
