@@ -1,4 +1,4 @@
-package com.kocesat.behavioral.observer;
+package com.kocesat.behavioral.observer.examples.spreadsheet;
 
 public class DataSource extends Subject {
     private int value;

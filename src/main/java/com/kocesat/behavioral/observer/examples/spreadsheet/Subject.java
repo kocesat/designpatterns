@@ -1,4 +1,4 @@
-package com.kocesat.behavioral.observer;
+package com.kocesat.behavioral.observer.examples.spreadsheet;
 
 import java.util.ArrayList;
 import java.util.List;
